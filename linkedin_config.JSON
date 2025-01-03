@@ -1,0 +1,13 @@
+{
+    "actor_name": "curious_coder/linkedin-profile-scraper",
+    "actor_input": {
+      "urls": [
+        "https://www.linkedin.com/in/jericho-wenzel-serrano-b6b9a22a3/",
+        "https://linkedin.com/in/greghurrell"
+      ],
+      "cookie": "",
+      "proxy": {
+        "useApifyProxy": true
+      }
+    }
+  }
